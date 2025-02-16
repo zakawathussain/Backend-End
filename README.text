@@ -1,0 +1,5 @@
+API Paths to Test:
+- /api/menu/
+- /api/bookings/
+- /api/bookings/<int:pk>/
+- /api/registration/
